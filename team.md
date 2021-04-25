@@ -9,5 +9,3 @@ redirect_from:
 We are working with great people with a strong motivation to teach and learn. Here you can read more about ...
 
 
-
-{% include call.html %}
