@@ -54,8 +54,8 @@ navigation_header:
   url: /teaching.html
 - title: Get involved
   url: /involve.html
-- title: CV
-  url: /cv.html
+- title: Links
+  url: /links.html
 - title: Contact
   url: /contact.html
 
@@ -64,9 +64,9 @@ collections:
     Research:
         output: true
         permalink: /research/:path/
-    CV:
+    Links:
         output: true
-        permalink: /cv/:path/
+        permalink: /link/:path/
     DL:
         output: true
         permalink: /DL/:path/
