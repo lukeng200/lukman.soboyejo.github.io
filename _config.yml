@@ -46,12 +46,12 @@ favicons:
 navigation_header:
 - title: Home
   url: /
-- title: Research
-  url: /research.html
-- title: Software
-  url: /software.html
-- title: Teaching
-  url: /teaching.html
+- title: Tutorials
+  url: /tutorials.html
+- title: Course
+  url: /course.html
+- title: Team
+  url: /team.html
 - title: Get involved
   url: /involve.html
 - title: Links
@@ -61,12 +61,12 @@ navigation_header:
 
 # Define collections
 collections:
-    Research:
+    Tutorials:
         output: true
-        permalink: /research/:path/
+        permalink: /tutorials/:path/
     Links:
         output: true
-        permalink: /link/:path/
+        permalink: /links/:path/
     DL:
         output: true
         permalink: /DL/:path/
